@@ -1,3 +1,7 @@
+> **Get the free ebook:** All parts combined into a single PDF/EPUB. [Download here](https://gomonk.dev/ebook)
+
+---
+
 This is the third part of a series introducing Bash programmers to Go. This part starts showing how to build platforms in Go. See [the first part](https://github.com/go-monk/from-bash-to-go-part-i) for the language building blocks and [the second part](https://github.com/go-monk/from-bash-to-go-part-ii) for introduction to CLI tools programming.
 
 Platform is a word that means different things to different people. What I mean by platform here is an internally built self-service API (possibly with a CLI tool and/or a web interface) that can be used by autonomous (application) teams.
